@@ -13,6 +13,7 @@ POMPA ANTUNES Maria Thereza, Ética. 2ª ed. São Paulo: Pearson Education do Br
 BLOK Marcella. Compliance e Governança Corporativa. 3ª ed. Rio de Janeiro: Freitas Bastos, 2020.
 
 Documentação para programa de compliance:
+
 1-Carta Convite para Comitê de Ética;
 2-Comunicação Inicial com Denunciante;
 3-Convite de Programa de Compliance;
